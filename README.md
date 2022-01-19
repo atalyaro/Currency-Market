@@ -1,5 +1,6 @@
 # Currency Market
 The website is presneting the worth of currencys from all around the world compared to: USD, EUR, ILS. 
+
 Few of the feathures that exist in the website for example: 
 1. Serching for a specific currency.
 2. Live report on the value of the chosen currencys shown on a graph.
